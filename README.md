@@ -2,7 +2,7 @@
 
 
 - 🔭  Hoje Trabalho como Suporte em T.I
-- 🌱  Estudando react.js e Bug bounty
+- 🌱  Estudando python e MySQL
 - 😄  Pronouns: Ele/Dele
 - 💲   Atualmente procurando um emprego como programador
 
