@@ -2,7 +2,7 @@
 
 
 - 🔭  Hoje Trabalho como Suporte em T.I
-- 🌱  Estudando back end
+- 🌱  Desenvolvedor Python
 
 
 <div align="center">
