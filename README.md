@@ -2,9 +2,8 @@
 
 
 - 🔭  Hoje Trabalho como Suporte em T.I
-- 🌱  Estudando python e MySQL
-- 😄  Pronouns: Ele/Dele
-- 💲   Atualmente procurando um emprego como programador
+- 🌱  Estudando back end
+
 
 <div align="center">
   <a href="https://github.com/LucasRib52">
