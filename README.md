@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas Cardoso Ribeiro 👋
 
-Desenvolvedor Full-stack apaixonado por aprender e crescer profissionalmente. Atualmente, prefiro trabalhar mais com Django e Swift, mas tenho experiência ampla em várias tecnologias.
+Desenvolvedor Full-stack apaixonado por aprender e crescer profissionalmente. Atualmente, prefiro trabalhar mais com Django e ReactJS, mas tenho experiência ampla em várias tecnologias.
 
 ---
 
@@ -14,7 +14,6 @@ Desenvolvedor Full-stack apaixonado por aprender e crescer profissionalmente. At
   <img alt="Lucas-Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="Lucas-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Lucas-Django" height="40" width="40" src="https://img.icons8.com/color/48/000000/django.png">
-  <img alt="Lucas-Swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img alt="Lucas-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img alt="Lucas-MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img alt="Lucas-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
