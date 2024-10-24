@@ -1,7 +1,10 @@
 # Olá! Eu sou o Lucas Cardoso Ribeiro 👋
 
-Desenvolvedor Full-stack apaixonado por aprender e crescer profissionalmente. Atualmente, prefiro trabalhar mais com Django e ReactJS, mas tenho experiência ampla em várias tecnologias.
+Desenvolvedor Java especializado em microservices e Spring Framework.
 
+Tenho experiência no design e implementação de APIs REST, além de competências em bancos de dados relacionais (PostgreSQL) e NoSQL (MongoDB). Minha experiência inclui a aplicação dos princípios SOLID para garantir código limpo, modular e fácil de manter, bem como o uso de práticas de testes unitários e funcionais para assegurar a qualidade contínua das entregas.
+
+Tenho facilidade em aprender novas tecnologias e busco sempre colaborar eficazmente com a equipe, sempre em busca das melhores entregas e soluções.
 ---
 
 ## 🚀 Tecnologias & Ferramentas
