@@ -5,6 +5,7 @@ Desenvolvedor Java especializado em microservices e Spring Framework.
 Tenho experiência no design e implementação de APIs REST, além de competências em bancos de dados relacionais (PostgreSQL) e NoSQL (MongoDB). Minha experiência inclui a aplicação dos princípios SOLID para garantir código limpo, modular e fácil de manter, bem como o uso de práticas de testes unitários e funcionais para assegurar a qualidade contínua das entregas.
 
 Tenho facilidade em aprender novas tecnologias e busco sempre colaborar eficazmente com a equipe, sempre em busca das melhores entregas e soluções.
+
 ---
 
 ## 🚀 Tecnologias & Ferramentas
@@ -20,6 +21,8 @@ Tenho facilidade em aprender novas tecnologias e busco sempre colaborar eficazme
   <img alt="Lucas-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img alt="Lucas-MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img alt="Lucas-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img alt="Lucas-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Lucas-Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
 ---
