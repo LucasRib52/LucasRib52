@@ -1,10 +1,11 @@
 # Olá! Eu sou o Lucas Cardoso Ribeiro 👋
 
-Desenvolvedor Java especializado em microservices e Spring Framework.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Durante minha formação, aprofundei conhecimentos em Node.js, Python, Django, APIs REST, SQL, NoSQL, TypeScript microsserviços, arquitetura de software, desenvolvimento full stack e boas práticas de programação. Além disso, participei de cursos e bootcamps voltados para backend e frontend.
 
-Tenho experiência no design e implementação de APIs REST, além de competências em bancos de dados relacionais (PostgreSQL) e NoSQL (MongoDB). Minha experiência inclui a aplicação dos princípios SOLID para garantir código limpo, modular e fácil de manter, bem como o uso de práticas de testes unitários e funcionais para assegurar a qualidade contínua das entregas.
+Sou Desenvolvedor Full Stack com foco em backend, possuindo experiência na criação de APIs escaláveis, microsserviços, autenticação, segurança, integração com bancos de dados SQL e NoSQL e implementação de infraestrutura em nuvem.
 
-Tenho facilidade em aprender novas tecnologias e busco sempre colaborar eficazmente com a equipe, sempre em busca das melhores entregas e soluções.
+Backend: Node.js, Python, Django, SQL, PostgreSQL, MySQL, MongoDB, APIs REST, Docker, AWS, Git
+Frontend: React, Next.js, Tailwind CSS, JavaScript, TypeScript
 
 ---
 
