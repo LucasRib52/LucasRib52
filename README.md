@@ -25,8 +25,6 @@ Frontend: React, Next.js, Tailwind CSS, JavaScript, TypeScript
   <img alt="Lucas-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img alt="Lucas-MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img alt="Lucas-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img alt="Lucas-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Lucas-Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
 ---
