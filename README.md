@@ -5,6 +5,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro
 Sou Desenvolvedor Full Stack com foco em backend, possuindo experiência na criação de APIs escaláveis, microsserviços, autenticação, segurança, integração com bancos de dados SQL e NoSQL e implementação de infraestrutura em nuvem.
 
 Backend: Node.js, Python, Django, SQL, PostgreSQL, MySQL, MongoDB, APIs REST, Docker, AWS, Git
+
 Frontend: React, Next.js, Tailwind CSS, JavaScript, TypeScript
 
 ---
