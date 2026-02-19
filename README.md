@@ -78,7 +78,7 @@ Durante minha formação e em cursos/bootcamps, aprofundei conhecimentos em:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LucasRib52&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=LucasRib52&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasRib52&theme=onedark&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
 </div>
 
 ###
