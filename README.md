@@ -53,7 +53,7 @@ integração com bancos <b>SQL/NoSQL</b> e infraestrutura em <b>nuvem</b>.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-cardoso--/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
 </div>
 
@@ -90,7 +90,14 @@ Durante minha formação e em cursos/bootcamps, aprofundei conhecimentos em:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasRib52&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasRib52&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRib52&layout=compact" height="150" alt="top langs" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LucasRib52&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
