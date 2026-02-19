@@ -90,8 +90,8 @@ Durante minha formação e em cursos/bootcamps, aprofundei conhecimentos em:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasRib52&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRib52&layout=compact" height="150" alt="top langs" />
+  <img src="https://api-github-readme-stats.vercel.app/api?username=LucasRib52&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="150" alt="github stats" />
+  <img src="https://api-github-readme-stats.vercel.app/api/top-langs/?username=LucasRib52&layout=compact" height="150" alt="top langs" />
 </div>
 
 ###
