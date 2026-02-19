@@ -89,14 +89,6 @@ Durante minha formação e em cursos/bootcamps, aprofundei conhecimentos em:
 
 ###
 
-<!-- ✅ Agora os cards vêm do SEU repo (não quebram) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LucasRib52/LucasRib52/main/assets/github-stats.svg" height="150" alt="github stats" />
-  <img src="https://raw.githubusercontent.com/LucasRib52/LucasRib52/main/assets/top-langs.svg" height="150" alt="top langs" />
-</div>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LucasRib52&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
@@ -106,7 +98,7 @@ Durante minha formação e em cursos/bootcamps, aprofundei conhecimentos em:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasRib52/LucasRib52/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasRib52/LucasRib52/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasRib52/LucasR52/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasRib52/LucasRib52/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
