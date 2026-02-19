@@ -1,61 +1,101 @@
+<!-- Banner (opcional) -->
+<!-- ![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&text=Lucas%20Cardoso%20Ribeiro&fontAlignY=35&desc=Full%20Stack%20%7C%20Backend-focused&descAlignY=60) -->
+
 # Olá! Eu sou o Lucas Cardoso Ribeiro 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Durante minha formação, aprofundei conhecimentos em Node.js, Python, Django, APIs REST, SQL, NoSQL, TypeScript microsserviços, arquitetura de software, desenvolvimento full stack e boas práticas de programação. Além disso, participei de cursos e bootcamps voltados para backend e frontend.
+🎯 **Desenvolvedor Full Stack (backend-focused)**, com experiência na criação de **APIs escaláveis**, **microsserviços**, **autenticação/segurança**, integração com **bancos SQL/NoSQL** e **infra em nuvem**.
 
-Sou Desenvolvedor Full Stack com foco em backend, possuindo experiência na criação de APIs escaláveis, microsserviços, autenticação, segurança, integração com bancos de dados SQL e NoSQL e implementação de infraestrutura em nuvem.
-
-Backend: Node.js, Python, Django, SQL, PostgreSQL, MySQL, MongoDB, APIs REST, Docker, AWS, Git
-
-Frontend: React, Next.js, Tailwind CSS, JavaScript, TypeScript
+💻 Formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Cruzeiro do Sul**. Ao longo da formação e de cursos/bootcamps, aprofundei conhecimentos em **Node.js**, **Python**, **Django**, **APIs REST**, **TypeScript**, **arquitetura de software**, **boas práticas** e **desenvolvimento full stack**.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Stack & Ferramentas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="Lucas-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Lucas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Lucas-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="Lucas-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Lucas-Nextjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img alt="Lucas-Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Lucas-Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Lucas-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Lucas-Django" height="40" width="40" src="https://img.icons8.com/color/48/000000/django.png">
-  <img alt="Lucas-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img alt="Lucas-MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img alt="Lucas-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000?logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?logo=springboot&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=white)
+
+### DevOps / Cloud
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
+
+---
+
+## 🧩 O que eu curto construir
+- ✅ APIs REST (boas práticas, versionamento, documentação, segurança)
+- ✅ Microsserviços e arquitetura modular
+- ✅ Autenticação (JWT / OAuth) e autorização (RBAC)
+- ✅ Integrações com SQL/NoSQL + performance (índices, cache, paginação)
+- ✅ Containers (Docker) e deploy em nuvem (AWS)
+
+---
+
+## 📌 Projetos em destaque (sugestão)
+> Troque/ajuste os links conforme preferir.
+
+- **dscommerce** — Projeto Java (backend)  
+  🔗 https://github.com/LucasRib52/dscommerce
+
+- **backend-passei** — Backend em Python  
+  🔗 https://github.com/LucasRib52/backend-passei
+
+- **backend-restaurant / frontend-restaurant** — Full stack (API + front)  
+  🔗 https://github.com/LucasRib52/backend-restaurant  
+  🔗 https://github.com/LucasRib52/frontend-restaurant
+
+- **portfolio-pessoal** — Portfólio  
+  🔗 https://github.com/LucasRib52/portfolio-pessoal
+
+> Dica: fixe (pin) os 6 melhores projetos no perfil e mantenha README de cada repo bem completo com: descrição, stack, arquitetura, como rodar, endpoints e prints.
 
 ---
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/LucasRib52">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=LucasRib52&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRib52&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
-  </a>
-</div>
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasRib52&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRib52&layout=compact" />
+</p>
+
+<!-- Streak (opcional) -->
+<!--
+<p align="left">
+  <img height="160" src="https://streak-stats.demolab.com?user=LucasRib52" />
+</p>
+-->
 
 ---
 
 ## 📫 Contato
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.instagram.com/lucas.crf19/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:lucascardosoprogramador@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lucascardosorib/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/lucascardosorib/
+- 📷 Instagram: https://www.instagram.com/lucas.crf19/
+- ✉️ E-mail: **seuemail@dominio.com** (troque aqui)
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contribuições (snake)
 
-![Snake animation](https://github.com/LucasRib52/LucasRib52/blob/output/github-contribution-grid-snake.svg)
+> Ative o workflow do snake (GitHub Actions) se quiser gerar automaticamente.
+
+![snake animation](https://github.com/LucasRib52/LucasRib52/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela — ajuda bastante!
