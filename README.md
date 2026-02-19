@@ -53,4 +53,60 @@ integração com bancos <b>SQL/NoSQL</b> e infraestrutura em <b>nuvem</b>.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-cardoso--/" target="_blank">
-    <img src="https:/
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
+## 🚀 Sobre mim
+Durante minha formação e em cursos/bootcamps, aprofundei conhecimentos em:
+- Criação de **APIs REST** com foco em **performance**, **escalabilidade** e **boas práticas**
+- **Microsserviços** e **arquitetura de software**
+- Autenticação (**JWT/OAuth**) e segurança (**RBAC**, validações, proteção de rotas)
+- Integrações com **SQL/NoSQL** e **modelagem de dados**
+- **Docker** e deploy/infra em **AWS**
+- Desenvolvimento full stack quando necessário (**React/Next.js**)
+
+## 🧰 Tecnologias
+
+### Backend
+- **Java / Spring Boot**
+- **Node.js / NestJS**
+- **Python / Django**
+- APIs REST, autenticação, segurança, integração com serviços
+
+### Banco de Dados
+- **PostgreSQL**, **MySQL**, **MongoDB**
+- Modelagem, índices, consultas, performance
+
+### DevOps / Cloud
+- **Docker**, **AWS**, **Git**
+- Deploy, containers, pipelines (quando aplicável)
+
+### Frontend (apoio)
+- **React**, **Next.js**, **Tailwind CSS**, **JavaScript/TypeScript**
+
+###
+
+<!-- ✅ Agora os cards vêm do SEU repo (não quebram) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucasRib52/LucasRib52/main/assets/github-stats.svg" height="150" alt="github stats" />
+  <img src="https://raw.githubusercontent.com/LucasRib52/LucasRib52/main/assets/top-langs.svg" height="150" alt="top langs" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LucasRib52&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasRib52/LucasRib52/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasRib52/LucasRib52/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasRib52/LucasR52/output/pacman-contribution-graph.svg">
+</picture>
+
+###
