@@ -1,0 +1,32 @@
+name: Generate README stats images
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download stats images
+        run: |
+          mkdir -p assets
+          curl -L "https://github-readme-stats.vercel.app/api?username=LucasRib52&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" -o assets/github-stats.svg
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRib52&layout=compact" -o assets/top-langs.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-langs.svg
+          git commit -m "update stats images" || echo "No changes"
+          git push
